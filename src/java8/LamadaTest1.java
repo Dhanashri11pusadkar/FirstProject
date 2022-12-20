@@ -33,5 +33,10 @@ public class LamadaTest1 {
         collage c2=new AISSMS();
         c2.collageDetailes();
         c2.takeaddmission();
+
+        collage ITP=()->{
+            System.out.println("this is ITP collage");
+        };
+        ITP.collageDetailes();
     }
 }
