@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="824d947b-e64a-4312-adf1-f219dce9aa33" name="Changes" comment="lamdatest">
-      <change afterPath="$PROJECT_DIR$/src/java8/LamadaTest2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java8/StremTest1.java" afterDir="false" />
+    <list default="true" id="824d947b-e64a-4312-adf1-f219dce9aa33" name="Changes" comment="EvenOdd">
+      <change afterPath="$PROJECT_DIR$/src/java8/StremTest2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,7 +42,7 @@
     ]
   }
 }</component>
-  <component name="RunManager" selected="Application.StremTest1">
+  <component name="RunManager" selected="Application.StremTest2">
     <configuration name="LamadaTest1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="java8.LamadaTest1" />
       <module name="FirstProject" />
@@ -70,6 +69,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="StremTest2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java8.StremTest2" />
+      <module name="FirstProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TryCatch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Exception.TryCatch" />
       <module name="FirstProject" />
@@ -85,6 +97,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StremTest2" />
         <item itemvalue="Application.StremTest1" />
         <item itemvalue="Application.LamadaTest1" />
         <item itemvalue="Application.TryCatch" />
@@ -163,7 +176,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671533184058</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="EvenOdd">
+      <created>1672067708154</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1672067708154</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -180,6 +200,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Exception" />
     <MESSAGE value="lamdatest" />
-    <option name="LAST_COMMIT_MESSAGE" value="lamdatest" />
+    <MESSAGE value="EvenOdd" />
+    <option name="LAST_COMMIT_MESSAGE" value="EvenOdd" />
   </component>
 </project>
